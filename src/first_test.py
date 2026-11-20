@@ -5,7 +5,7 @@ import librosa
 SEED = 0
 SR = 22050          
 DURATION = 2.0        
-F0_TRUE = 110.0       
+F0_TRUE = 113.7      
 N_HARMONICS = 8
 OCTAVE_THRESHOLD_CENTS = 600  
 

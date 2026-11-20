@@ -5,7 +5,7 @@ import librosa
 SEED = 0
 SR = 22050          
 DURATION = 2.0        
-F0_TRUE = 113.7      
+F0_TRUE = 113.7  #off-grid on purpose right now, so pYIN can't land exactly on it       
 N_HARMONICS = 8
 OCTAVE_THRESHOLD_CENTS = 600  
 
